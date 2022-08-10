@@ -1,2 +1,2 @@
 # tekateki
-kagabutan ku yang hqq
+hanya project ujicoba
